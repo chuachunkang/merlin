@@ -2,13 +2,13 @@ name: environment
 channels:
   - conda-forge
 dependencies:
-  - pip
+  - pip:
+    - os
+    - re
+    - glob
+    - camelot
   - numpy
   - pandas
-  - os
-  - re
-  - glob
   - tika
-  - camelot
   - pickle
   - qgrid
