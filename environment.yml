@@ -1,0 +1,12 @@
+name: environment
+dependencies:
+  - pip
+  - nump
+  - pandas
+  - os
+  - re
+  - glob
+  - tika
+  - camelot
+  - pickle
+  - qgrid
