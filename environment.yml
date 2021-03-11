@@ -7,8 +7,8 @@ dependencies:
     - re
     - glob
     - camelot
+    - pickle
   - numpy
   - pandas
   - tika
-  - pickle
   - qgrid
